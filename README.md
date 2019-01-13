@@ -7,8 +7,8 @@ The belly button is one of the habitats closest to us, and yet it remains relati
  [Belly Button Biodiversity DataSet](http://robdunnlab.com/projects/belly-button-biodiversity/).
 
 ## Technologies/Frameworks/Databases used
-* Plotly.js: To build interactive charts for the dashboard
-* Python Flask API:
+* Plotly.js - To build interactive charts for the dashboard
+* Python Flask API
 * SQLite database
 * HTML/CSS/JavaScript
 
